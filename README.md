@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React native / project management**
 
-- 👨‍💻 All of my projects are available at [https://shaimaaalrifay.github.io/SH/]((https://shaimaaalrifay.github.io/SH/))
+- 👨‍💻 All of my projects are available at [https://shaimaaalrifay.github.io/SH/](https://shaimaaalrifay.github.io/SH/)
 
 - 💬 Ask me about **UI UX**
 
