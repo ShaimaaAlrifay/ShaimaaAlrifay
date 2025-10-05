@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaimaa Alrifay</h1>
-<h3 align="center">A passionate Application developer / UI UX Designer from Saudi Arabia</h3>
+<h3 align="center">A passionate Mobile App developer / UI UX Designer from Saudi Arabia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaimaaalrifay&label=Profile%20views&color=0e75b6&style=flat" alt="shaimaaalrifay" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React native / project management**
 
-- 👨‍💻 All of my projects are available at [https://www.figma.com/proto/cVhnASb1WCQ3Z6UfvgfVda/my-potrfolio?page-id=0%3A1&type=design&node-id=5-581&viewport=1510%2C-61%2C0.35&t=DqFkXVd24UfWdjZN-1&scaling=min-zoom&mode=design](https://www.figma.com/proto/cVhnASb1WCQ3Z6UfvgfVda/my-potrfolio?page-id=0%3A1&type=design&node-id=5-581&viewport=1510%2C-61%2C0.35&t=DqFkXVd24UfWdjZN-1&scaling=min-zoom&mode=design)
+- 👨‍💻 All of my projects are available at [https://shaimaaalrifay.github.io/SH/]((https://shaimaaalrifay.github.io/SH/))
 
 - 💬 Ask me about **UI UX**
 
